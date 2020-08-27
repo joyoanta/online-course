@@ -1,13 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './Component/Header/Header';
+import Course from './Component/Course/Course';
+
+
 
 function App() {
   return (
     <div className="App">
-     <Header></Header>
-   
+      <Header></Header>
+      <Course></Course>
     </div>
       
     
