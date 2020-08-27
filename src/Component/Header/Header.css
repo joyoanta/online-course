@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+}
+
+.header img{
+    width: 400px;
+}
+
+.header nav{
+
+    background-color: pink;
+    padding: 10px;
+    height: 45px;
+    font: outline;
+    font-weight: 600;
+    text-decoration: none;
+    
+}
+
+.header nav a {
+
+    color: black;
+    padding: 13px; 
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+
+.header nav a:hover{
+
+    background-color: white;
+}
