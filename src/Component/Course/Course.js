@@ -24,6 +24,8 @@ const Course = (props) => {
 //    const total = course.reduce ((total, crs) => total + crs.price ,0);
     
     
+// Enroll Button Addeded 
+
     return (
         
         <div  className="main">

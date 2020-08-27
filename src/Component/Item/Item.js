@@ -1,5 +1,7 @@
 import React from 'react';
 
+// All course displaying function 
+
 const Item = (props) => {
 
     console.log(props)
